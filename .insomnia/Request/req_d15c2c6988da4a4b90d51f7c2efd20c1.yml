@@ -1,0 +1,30 @@
+_id: req_d15c2c6988da4a4b90d51f7c2efd20c1
+type: Request
+parentId: fld_d6562b4253b5475ca4c8772c924b9410
+modified: 1667032136363
+created: 1666975949842
+url: "{{ _.baseURL }}/users"
+name: /users
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "john.doe",
+    	"name": "John Doe"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a2743a42f921402caeaa94a2091f09a0
+authentication: {}
+metaSortKey: -1666904339068.6973
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

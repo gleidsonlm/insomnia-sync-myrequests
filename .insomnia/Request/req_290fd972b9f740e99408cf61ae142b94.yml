@@ -1,0 +1,29 @@
+_id: req_290fd972b9f740e99408cf61ae142b94
+type: Request
+parentId: fld_dccaf75ca1c44e098af3823bcf4492c9
+modified: 1666963128870
+created: 1666962665992
+url: "{{ _.baseURL }}/account/"
+name: /account/
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers:
+  - id: pair_e1bd48cfa0ce4dbbb7a2d0d9d3bc9cf4
+    name: cpf
+    value: "02802274007"
+    description: ""
+  - id: pair_6b89dc0e943942bd980101d3f58325a3
+    name: name
+    value: Juliane B Maia Medeiros
+    description: ""
+authentication: {}
+metaSortKey: -1666904497277.6118
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

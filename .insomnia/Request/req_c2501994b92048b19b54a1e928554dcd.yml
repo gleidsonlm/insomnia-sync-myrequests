@@ -1,0 +1,21 @@
+_id: req_c2501994b92048b19b54a1e928554dcd
+type: Request
+parentId: fld_691c7f36115e429ca9a8dc686d058283
+modified: 1667037910347
+created: 1667037690565
+url: "{{ _.baseURL }}/repositories"
+name: /repositories
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667037690565
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

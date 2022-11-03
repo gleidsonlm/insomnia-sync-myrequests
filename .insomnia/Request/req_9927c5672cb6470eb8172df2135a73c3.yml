@@ -1,0 +1,25 @@
+_id: req_9927c5672cb6470eb8172df2135a73c3
+type: Request
+parentId: fld_dccaf75ca1c44e098af3823bcf4492c9
+modified: 1666963284865
+created: 1666905595990
+url: "{{ _.baseURL }}/account/"
+name: /account/
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_e1bd48cfa0ce4dbbb7a2d0d9d3bc9cf4
+    name: cpf
+    value: "02802274007"
+    description: ""
+authentication: {}
+metaSortKey: -1666904614506.4375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

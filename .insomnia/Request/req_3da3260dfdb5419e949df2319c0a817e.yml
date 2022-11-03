@@ -1,0 +1,21 @@
+_id: req_3da3260dfdb5419e949df2319c0a817e
+type: Request
+parentId: fld_2d5aa05e15d847e0af92d5e3f52d130c
+modified: 1666905026960
+created: 1666898756947
+url: "{{ _.baseURL }}/courses/1"
+name: /courses/:id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666904185760.4375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

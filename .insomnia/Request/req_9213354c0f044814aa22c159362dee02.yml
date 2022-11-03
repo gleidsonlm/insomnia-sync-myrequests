@@ -1,0 +1,24 @@
+_id: req_9213354c0f044814aa22c159362dee02
+type: Request
+parentId: fld_d6562b4253b5475ca4c8772c924b9410
+modified: 1666986974361
+created: 1666983211609
+url: "{{ _.baseURL }}/todos/efaad7a0-9a6c-4dbc-86be-852c2eaefebe/done"
+name: /todos/:id/done
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers:
+  - name: username
+    value: john.doe
+    id: pair_92884e3f730f4186bba2d8fbd3d56563
+authentication: {}
+metaSortKey: -1666904334610.1162
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

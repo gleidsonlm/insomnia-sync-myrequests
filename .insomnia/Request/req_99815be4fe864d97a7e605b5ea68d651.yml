@@ -1,0 +1,28 @@
+_id: req_99815be4fe864d97a7e605b5ea68d651
+type: Request
+parentId: fld_73f49b95eedd4d2687aebb2138644e73
+modified: 1667476360656
+created: 1667475863026
+url: "{{ _.baseURL }}/pools"
+name: /pools
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"meu123"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667256757874.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

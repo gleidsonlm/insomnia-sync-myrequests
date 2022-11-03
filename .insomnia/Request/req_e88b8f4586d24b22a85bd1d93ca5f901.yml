@@ -1,0 +1,28 @@
+_id: req_e88b8f4586d24b22a85bd1d93ca5f901
+type: Request
+parentId: fld_2d5aa05e15d847e0af92d5e3f52d130c
+modified: 1666905023049
+created: 1666898687573
+url: "{{ _.baseURL }}/courses"
+name: /courses
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "English"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1666904185758.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_2e5bd50588c24fdbbb506d0d05c31d03
+type: Request
+parentId: fld_2d5aa05e15d847e0af92d5e3f52d130c
+modified: 1666905021874
+created: 1666898646977
+url: "{{ _.baseURL }}/courses"
+name: /courses
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_84037068600c4c7e862c20aef9108a4e
+    name: id
+    value: "1"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1666904185733.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

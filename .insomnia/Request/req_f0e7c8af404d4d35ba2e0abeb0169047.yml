@@ -1,0 +1,30 @@
+_id: req_f0e7c8af404d4d35ba2e0abeb0169047
+type: Request
+parentId: fld_691c7f36115e429ca9a8dc686d058283
+modified: 1667040243748
+created: 1667037780561
+url: "{{ _.baseURL }}/repositories"
+name: /repositories
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"Repos I Do Like",
+    	"url":"https://github.com/gleidsonlm/repos-i-do-like",
+    	"techs":"['javascript']"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667037690515
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

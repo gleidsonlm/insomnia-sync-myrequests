@@ -1,0 +1,27 @@
+_id: req_851759857c8b4b25b92836b01d186e99
+type: Request
+parentId: fld_691c7f36115e429ca9a8dc686d058283
+modified: 1667040314769
+created: 1667037945326
+url: "{{ _.baseURL }}/repositories/4491b5bd-7136-4330-b63f-075309fcdbfe"
+name: /repositories/:id
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667037690465
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

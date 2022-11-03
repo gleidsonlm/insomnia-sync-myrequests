@@ -1,0 +1,33 @@
+_id: req_28ff4717c14046889954a5ddd2a784cc
+type: Request
+parentId: fld_d6562b4253b5475ca4c8772c924b9410
+modified: 1667032143255
+created: 1666979361688
+url: "{{ _.baseURL }}/todos"
+name: /todos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "Other Task 2",
+    	"deadline": "2022-10-28"
+    }
+parameters: []
+headers:
+  - name: username
+    value: john.doe
+    id: pair_92884e3f730f4186bba2d8fbd3d56563
+  - name: Content-Type
+    value: application/json
+    id: pair_ef70198e5b064cc6b426805a6c10ad1f
+authentication: {}
+metaSortKey: -1666904338968.6973
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

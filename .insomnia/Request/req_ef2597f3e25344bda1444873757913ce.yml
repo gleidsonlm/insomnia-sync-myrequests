@@ -1,0 +1,21 @@
+_id: req_ef2597f3e25344bda1444873757913ce
+type: Request
+parentId: fld_73f49b95eedd4d2687aebb2138644e73
+modified: 1667475852236
+created: 1667475825184
+url: "{{ _.baseURL }}/pools/count"
+name: /pools/count
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667475825184
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

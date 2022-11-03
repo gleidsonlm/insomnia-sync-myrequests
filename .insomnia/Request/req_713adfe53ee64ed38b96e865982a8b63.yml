@@ -1,0 +1,29 @@
+_id: req_713adfe53ee64ed38b96e865982a8b63
+type: Request
+parentId: fld_dccaf75ca1c44e098af3823bcf4492c9
+modified: 1666963142958
+created: 1666914724863
+url: "{{ _.baseURL }}/statement/"
+name: /statement/
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_f9e9da23ff6e47949b19e2efa486d298
+    name: cpf
+    value: "02802274007"
+    description: ""
+  - id: pair_f51298be425b4ee3b09c2a2c4425f042
+    name: date
+    value: 2022-10-28
+    description: ""
+authentication: {}
+metaSortKey: -1666904333157.2559
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_d844347e6add4b3db2fc4f447c713dd1
+type: Request
+parentId: fld_dccaf75ca1c44e098af3823bcf4492c9
+modified: 1666963123152
+created: 1666905043229
+url: "{{ _.baseURL }}/account/"
+name: /account/
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"cpf": "02802274007",
+    	"name": "Juliane Bernardes Maia Medeiros"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_27b0ca05cd394effa7ac41d508f44c99
+authentication: {}
+metaSortKey: -1666905043229
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

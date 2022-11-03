@@ -1,0 +1,21 @@
+_id: req_68d23b51747d447f9b1721fd6d4e15f4
+type: Request
+parentId: fld_691c7f36115e429ca9a8dc686d058283
+modified: 1667040327149
+created: 1667039627896
+url: "{{ _.baseURL }}/repositories/4491b5bd-7136-4330-b63f-075309fcdbfe/like"
+name: /repositories/:id/like
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667037690415
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

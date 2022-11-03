@@ -1,0 +1,24 @@
+_id: req_a52ee67ea46d470fb779ecc5cbf93abe
+type: Request
+parentId: fld_d6562b4253b5475ca4c8772c924b9410
+modified: 1666987014781
+created: 1666984068838
+url: "{{ _.baseURL }}/todos/91deb183-4929-423d-bb19-c93a0d2a26aa"
+name: /todos/:id
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: username
+    value: john.doe
+    id: pair_92884e3f730f4186bba2d8fbd3d56563
+authentication: {}
+metaSortKey: -1666904333883.686
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

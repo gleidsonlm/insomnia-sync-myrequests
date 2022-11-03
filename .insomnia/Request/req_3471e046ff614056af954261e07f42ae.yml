@@ -1,0 +1,21 @@
+_id: req_3471e046ff614056af954261e07f42ae
+type: Request
+parentId: fld_2d5aa05e15d847e0af92d5e3f52d130c
+modified: 1666905025302
+created: 1666898720497
+url: "{{ _.baseURL }}/courses/1"
+name: /courses/:id
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666904185765.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

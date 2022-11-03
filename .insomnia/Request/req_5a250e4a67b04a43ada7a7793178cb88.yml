@@ -1,0 +1,25 @@
+_id: req_5a250e4a67b04a43ada7a7793178cb88
+type: Request
+parentId: fld_d6562b4253b5475ca4c8772c924b9410
+modified: 1666985801795
+created: 1666975584329
+url: "{{ _.baseURL }}/todos"
+name: /todos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8ce64c7a01de442f982731d83a4b6aa1
+    name: username
+    value: john.doe
+    description: ""
+authentication: {}
+metaSortKey: -1666904339018.6973
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
